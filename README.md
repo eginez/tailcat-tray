@@ -1,6 +1,6 @@
 # Tailcat Tray
 
-Windows tray app and CLI for controlling Tailcat SSH and RDP tunnels. Uses the bundled .NET Framework and WinForms; no package downloads or paid Tailscale account are required. Public Tailcat relays are free, rate-limited, and best effort.
+Windows tray app and CLI for controlling Tailcat SSH and RDP tunnels. Uses the bundled .NET Framework and WinForms. Public Tailcat relays are free, rate-limited, and best effort.
 
 ## Architecture and identities
 
