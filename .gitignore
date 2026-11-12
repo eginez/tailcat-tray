@@ -1,0 +1,12 @@
+*.exe
+*.pdb
+work/
+settings.json.tmp
+settings.json
+*.log
+*.private.json
+nodekeys
+authorized_keys
+administrators_authorized_keys
+.env
+.env.*

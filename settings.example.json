@@ -1,0 +1,7 @@
+{
+  "TailcatPath": "C:\\Users\\YOUR_USER\\scoop\\apps\\tailcat\\current\\tailcat.exe",
+  "MacKeyPath": "C:\\Users\\YOUR_USER\\.config\\tailcat\\nodekeys",
+  "SshIdentity": "windows",
+  "SshAuthorizedKeysPath": "C:\\ProgramData\\ssh\\administrators_authorized_keys",
+  "ServerKey": "home-pc"
+}
